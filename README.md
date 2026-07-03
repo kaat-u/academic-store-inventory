@@ -53,10 +53,6 @@ El sistema implementa además una búsqueda por código/nombre y un ordenamiento
 4. Ubicar la clase `Main` en `src/main/java/com/lideratec/Main.java`.
 5. Ejecutar la clase `Main` (Run > Run 'Main.main()' o botón de play sobre la clase).
 
-## Video de explicación
-
-Enlace del video: (agregar enlace de YouTube aquí - cámaras encendidas, explicando cómo resolvieron la evaluación, por qué llegaron a esa solución y qué decisiones tomaron)
-
 ## Estructura del proyecto
 
 ```
