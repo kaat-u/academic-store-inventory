@@ -38,10 +38,6 @@ La lógica de negocio se encapsula en la clase Inventario (paquete com.lideratec
 
 El sistema implementa además una búsqueda por código/nombre y un ordenamiento sobre la colección de productos.
 
-## Decisiones técnicas tomadas por el equipo
-
-(Completar: por qué eligieron esos dos tipos de producto, por qué esa clase abstracta, qué criterio usaron para el ordenamiento, etc.)
-
 ## Instrucciones de ejecución
 
 1. Clonar el repositorio:
